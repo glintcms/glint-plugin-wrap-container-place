@@ -1,0 +1,30 @@
+{
+  "name": "glint-plugin-wrap-container-place",
+  "version": "1.0.0",
+  "description": "adds `_place` field to the content on the server, and sets place() accordingly in the browser.",
+  "main": "server.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-plugin-wrap-container-place.git"
+  },
+  "author": "Andi Neck",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-plugin-wrap-container-place/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-plugin-wrap-container-place",
+  "keywords": [
+    "glint",
+    "plugin",
+    "wrap",
+    "container",
+    "place"
+  ]
+}
