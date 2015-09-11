@@ -1,6 +1,6 @@
 {
   "name": "glint-plugin-wrap-container-place",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adds `_place` field to the content on the server, and sets place() accordingly in the browser.",
   "main": "server.js",
   "browser": "browser.js",
