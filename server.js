@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:plugin-wrap-container-place');
+var debug = require('debug')('glint-plugin-wrap-container-place');
 
 /**
  *  Wrap and Container _place Plugin
